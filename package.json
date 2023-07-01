@@ -1,0 +1,16 @@
+{
+  "name": "foe-clicker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WN Dev",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "puppeteer": "^19.7.0",
+    "puppeteer-core": "^19.7.1"
+  }
+}
